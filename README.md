@@ -29,15 +29,16 @@ This file acts as an overview of your repository. It is the first thing user vie
 
 This is the projects software license and governs the usage, distribution availability of a software project. Many licenses have info that must be filled in by the software owners such as dates and names.
 
-- [AGPL-v3](licenses/AGPL-v3) - GNU Affero General Public License, a free copy left license similar to GPL-v3 but has an addition term to allow users who interact with the licensed software over a network to receive the source for that program.
-- [Apache-2.0](licenses/) - A copyright license allow anyone modify the original source as long as the source retains its original Apache-2.0 license and as the modifications are listed in the distribution of the modified source. Authors of Apache-2.0 licensed source cannot be help liable under this license.
-- [BSL-1.0](licenses/) - Simple copyright license allow anyone to do whatever they want with BSL-1.0 license software as long as the software retains it original BSL-1.0 license unless distributed as a compiled binary.
-- [GPL-v2](licenses/GPL-v2) - GNU General Public License Version 2, a free copy left license.
-- [GPL-v3](licenses/GPL-v3) - GNU General Public License Version 3, a free copy left license similar to GPL-v2 but with stricter copyleft requirements.
-- [LGPL-v3](licenses/LGPL-v3) - GNU Lesser General Public License Version 3, a free copy left license similar to GPL-v3 but LGPL-v3 software is able to be used and modified with non-GPL-v3 license source as longe as th originally LGPL-v3 licensed source retains its original license and the LGPL-v3 source cna be replaced with other source with no effect on the end users usage of the compiled program.
-- [MIT](licenses/) - Simple copyright license allow anyone to do whatever they want with MIT license software as long as the software retains it original MIT license. Authors of MIT licensed source cannot be help liable under this license.
-- [MPL-2.0](licenses/) - Mozilla Public License Version 2.0, is a middle ground license that aims to balance the benefits of permissive licenses like MIT and copyleft licenses like GPL-v3.
-- [Unlicense](licenses/) - A license that releases the software into the public domain.
+- [AGPL-3.0](licenses/AGPL-3.0) - GNU Affero General Public License, a free copy left license similar to GPL-3.0 but has an addition term to allow users who interact with the licensed software over a network to receive the source for that program.
+- [Apache-2.0](licenses/Apache-2.0) - A copyright license allow anyone modify the original source as long as the source retains its original Apache-2.0 license and as the modifications are listed in the distribution of the modified source. Authors of Apache-2.0 licensed source cannot be help liable under this license.
+- [BSD-3-Clause](licenses/BSD-3-Clause) - Simple copyright license allow anyone to do whatever they want with BSD 3-Clause license software as long as the software retains it original BSD 3-Clause license. It also states that contributors of the original source cannot be used to endorse derivative works without explicit prior permission.
+- [BSL-1.0](licenses/BSL-1.0) - Simple copyright license allow anyone to do whatever they want with BSL-1.0 license software as long as the software retains it original BSL-1.0 license unless distributed as a compiled binary.
+- [GPL-2.0](licenses/GPL-2.0) - GNU General Public License Version 2, a free copy left license.
+- [GPL-3.0](licenses/GPL-3.0) - GNU General Public License Version 3, a free copy left license similar to GPL-2.0 but with stricter copyleft requirements.
+- [LGPL-3.0](licenses/LGPL-3.0) - GNU Lesser General Public License Version 3, a free copy left license similar to GPL-3.0 but LGPL-3.0 software is able to be used and modified with non-GPL-3.0 license source as longe as th originally LGPL-3.0 licensed source retains its original license and the LGPL-3.0 source cna be replaced with other source with no effect on the end users usage of the compiled program.
+- [MIT](licenses/MIT) - Simple copyright license allow anyone to do whatever they want with MIT license software as long as the software retains it original MIT license. Authors of MIT licensed source cannot be help liable under this license.
+- [MPL-2.0](licenses/MPL-2.0) - Mozilla Public License Version 2.0, is a middle ground license that aims to balance the benefits of permissive licenses like MIT and copyleft licenses like GPL-3.0.
+- [Unlicense](licenses/Unlicense) - A license that releases the software into the public domain.
 
 ### `CODE_OF_CONDUCT.md`
 
